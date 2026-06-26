@@ -1,1 +1,1 @@
-print("Testing GitHub explosion!")
+print("Testing M4 Power")
